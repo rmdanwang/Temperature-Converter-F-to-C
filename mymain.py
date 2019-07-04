@@ -1,4 +1,4 @@
-# Homework by Ru Meng(Dan) Wang mymain.py
+
 import temperatureConverter
 
 F = input("Enter degree in fahrenheit to be converted to celsius here: ")
