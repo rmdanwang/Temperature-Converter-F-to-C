@@ -1,4 +1,4 @@
-# Homework by Ru Meng(Dan) Wang temperatureConverter.py
+
 
 def fahrenheitToCelsius(tempInFahrenheit):
     return(float(tempInFahrenheit)- 32)* 5/9
